@@ -1,0 +1,3 @@
+[submodule "firmware/src/Nano33BLE/lib/ArduinoBLE"]
+	path = firmware/src/Nano33BLE/lib/ArduinoBLE
+	url = https://github.com/ysoldak/ArduinoBLE.git
